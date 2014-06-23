@@ -1,0 +1,12 @@
+﻿//англо-русский словарь
+program|программа
+program|процесс
+method|метод
+key|ключ
+java virtual machine|виртуальная машина Джава
+mother|мама
+class|класс
+inception|начало
+transition|переход
+elaboration|разработка
+construction|строительство
